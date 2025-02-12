@@ -14,6 +14,11 @@
     "koishi",
     "plugin"
   ],
+  "homepage": "https://doc.flweb.cn",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WindyPear-Team/koishi-plugin-tdz-img.git"
+  },
   "peerDependencies": {
     "koishi": "^4.18.0"
   }
